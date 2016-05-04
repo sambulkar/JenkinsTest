@@ -1,5 +1,5 @@
 /**
- * The HelloWorldApp class implements an application that
+ * The HelloWorldAppOne class implements an application that
  * simply prints "Hello World!" to standard output.
  */
 class HelloWorldApp {
